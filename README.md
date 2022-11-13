@@ -1,4 +1,3 @@
-<!-- Alphabetical layout -->
 # Cairo list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 Below is a list of open source Cairo - related projects that can be found on GitHub and not only.
@@ -27,7 +26,7 @@ You can do it quite easy by:
    - [API reference manual](https://www.cairographics.org/manual)
 
 #### Language bindings
-
+<!-- Alphabetically by programming language -->
 | Lang.    | Description |
 | :---     | :---        |
 | Crystal  | [Cairo bindings for Crystal language](https://github.com/TamasSzekeres/cairo-cr) |
@@ -42,7 +41,7 @@ You can do it quite easy by:
 | Ruby     | [The Ruby bindings for cairo](https://github.com/rcairo/rcairo) |
 
 #### Exciting Cairo Project Ideas & Topics
-
+<!-- Alphabetically by programming language -->
 | Lang. | Author | Description |
 | :---  | :---   | :---        |
 |   C   | - dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
