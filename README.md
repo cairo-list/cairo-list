@@ -14,30 +14,30 @@ You can do it quite easy by:
 
 #### Homepage
 
-[Cairo](https://www.cairographics.org)
+   [Cairo](https://www.cairographics.org)
 
 #### Repositories
 
-[Cairo @freedesktop](https://gitlab.freedesktop.org/cairo/cairo)
+   [Cairo @freedesktop](https://gitlab.freedesktop.org/cairo/cairo)
 
-[Cairo @GitHub](https://github.com/freedesktop/cairo)
+   [Cairo @GitHub](https://github.com/freedesktop/cairo)
 
 #### Cairo functions dictionary
 
-[API reference manual](https://www.cairographics.org/manual)
+   [API reference manual](https://www.cairographics.org/manual)
 
 #### Language bindings
 
-| Language | Description |
-| :---     | :---        |
-| Harbour  | [Harbour module implementing bindings to Cairo](https://github.com/dev-harbour/hb-cairo) |
-| Haskell  | [Haskell binding to Cairo](https://github.com/sseefried/hs-cairo) |
-| Julia    | [Bindings to the Cairo graphics library](https://github.com/JuliaGraphics/Cairo.jl) |
-| OCaml    | [Binding to Cairo, a 2D Vector Graphics Library](https://github.com/Chris00/ocaml-cairo) |
-| Python   | [Python bindings for cairo](https://github.com/pygobject/pycairo) |
+   | Language | Description |
+   | :---     | :---        |
+   | Harbour  | [Harbour module implementing bindings to Cairo](https://github.com/dev-harbour/hb-cairo) |
+   | Haskell  | [Haskell binding to Cairo](https://github.com/sseefried/hs-cairo) |
+   | Julia    | [Bindings to the Cairo graphics library](https://github.com/JuliaGraphics/Cairo.jl) |
+   | OCaml    | [Binding to Cairo, a 2D Vector Graphics Library](https://github.com/Chris00/ocaml-cairo) |
+   | Python   | [Python bindings for cairo](https://github.com/pygobject/pycairo) |
 
 #### Exciting Cairo Project Ideas & Topics
 
-| Author | Description |
-| :---     | :---        |
-| - dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
+   | Author | Description |
+   | :---     | :---        |
+   | - dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
