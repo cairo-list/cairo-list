@@ -45,3 +45,6 @@ You can do it quite easy by:
 | Lang. | Author | Description |
 | :---  | :---   | :---        |
 |   C   | - dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
+|   C   | Jeremy Moles | [A small library of useful, common Cairo routines](https://github.com/stuaxo/cairocks) |
+|   C   | Martin Robinson | [Some simple exmaples of using the Cairo GL backend](https://github.com/mrobinson/cairo-gl-smoke-tests)
+| JavaScript | eexpress | [Cairo Clock for gnome-shell](https://github.com/eexpress/gnome-shell-cairo) |
