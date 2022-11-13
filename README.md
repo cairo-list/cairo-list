@@ -28,12 +28,16 @@ You can do it quite easy by:
 
 #### Language bindings
 
-- Harbour [Harbour module implementing bindings to Cairo](https://github.com/dev-harbour/hb-cairo)
-- Haskell [Haskell binding to Cairo](https://github.com/sseefried/hs-cairo)
-- Julia   [Bindings to the Cairo graphics library](https://github.com/JuliaGraphics/Cairo.jl)
-- OCaml   [Binding to Cairo, a 2D Vector Graphics Library](https://github.com/Chris00/ocaml-cairo)
-- Python  [Python bindings for cairo](https://github.com/pygobject/pycairo)
+| Language | Description |
+| :---     | :---        |
+| Harbour  | [Harbour module implementing bindings to Cairo](https://github.com/dev-harbour/hb-cairo) |
+| Haskell  | [Haskell binding to Cairo](https://github.com/sseefried/hs-cairo) |
+| Julia    | [Bindings to the Cairo graphics library](https://github.com/JuliaGraphics/Cairo.jl) |
+| OCaml    | [Binding to Cairo, a 2D Vector Graphics Library](https://github.com/Chris00/ocaml-cairo) |
+| Python   | [Python bindings for cairo](https://github.com/pygobject/pycairo) |
 
 #### Exciting Cairo Project Ideas & Topics
 
-- dev-harbour [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea)
+| Author | Description |
+| :---     | :---        |
+| - dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
