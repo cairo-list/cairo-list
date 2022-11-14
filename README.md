@@ -27,24 +27,26 @@ You can do it quite easy by:
 
 #### Language bindings
 <!-- Alphabetically by programming language -->
-| Lang.    | Description |
-| :---     | :---        |
-| Crystal  | [Cairo bindings for Crystal language](https://github.com/TamasSzekeres/cairo-cr) |
-| D        | [Cairo bindings and wrappers for the D programming language](https://github.com/cairoD/cairoD) |
-| Go       | [Go binding for the cairo graphics library](https://github.com/ungerik/go-cairo) |
-| Go       | [Go language bindings for Cairo graphics](https://github.com/patrickxb/gocairo) |
-| Harbour  | [Harbour module implementing bindings to Cairo](https://github.com/dev-harbour/hb-cairo) |
-| Haskell  | [Haskell binding to Cairo](https://github.com/sseefried/hs-cairo) |
-| Julia    | [Bindings to the Cairo graphics library](https://github.com/JuliaGraphics/Cairo.jl) |
-| OCaml    | [Binding to Cairo, a 2D Vector Graphics Library](https://github.com/Chris00/ocaml-cairo) |
-| Python   | [Python bindings for cairo](https://github.com/pygobject/pycairo) |
-| Ruby     | [The Ruby bindings for cairo](https://github.com/rcairo/rcairo) |
+| Lang.        | Description |
+| :---         | :---        |
+| Crystal      | [Cairo bindings for Crystal language](https://github.com/TamasSzekeres/cairo-cr) |
+| D            | [Cairo bindings and wrappers for the D programming language](https://github.com/cairoD/cairoD) |
+| Go           | [Go binding for the cairo graphics library](https://github.com/ungerik/go-cairo) |
+| Go           | [Go language bindings for Cairo graphics](https://github.com/patrickxb/gocairo) |
+| Harbour      | [Harbour module implementing bindings to Cairo](https://github.com/dev-harbour/hb-cairo) |
+| Haskell      | [Haskell binding to Cairo](https://github.com/sseefried/hs-cairo) |
+| Julia        | [Bindings to the Cairo graphics library](https://github.com/JuliaGraphics/Cairo.jl) |
+| OCaml        | [Binding to Cairo, a 2D Vector Graphics Library](https://github.com/Chris00/ocaml-cairo) |
+| Python       | [Python bindings for cairo](https://github.com/pygobject/pycairo) |
+| Ruby         | [The Ruby bindings for cairo](https://github.com/rcairo/rcairo) |
+| Rust         | [Rust bindings for Cairo](https://github.com/jminer/rust-cairo) |
+| Visual Basic | [Cairo Graphics bindings for VB6](https://github.com/VBForumsCommunity/VbCairo) |
 
 #### Exciting Cairo Project Ideas & Topics
 <!-- Alphabetically by programming language -->
 | Lang. | Author | Description |
 | :---  | :---   | :---        |
-|   C   | - dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
+|   C   | dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
 |   C   | Jeremy Moles | [A small library of useful, common Cairo routines](https://github.com/stuaxo/cairocks) |
 |   C   | Martin Robinson | [Some simple exmaples of using the Cairo GL backend](https://github.com/mrobinson/cairo-gl-smoke-tests)
 | JavaScript | eexpress | [Cairo Clock for gnome-shell](https://github.com/eexpress/gnome-shell-cairo) |
