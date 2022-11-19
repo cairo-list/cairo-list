@@ -49,6 +49,9 @@ You can do it quite easy by:
 | :---  | :---   | :---        |
 |   C   | Bryce Harrington | [Cairo demonstration programs](https://gitlab.com/cairo/cairo-demos) |
 |   C   | dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
+|   C   | j-p         | [Vector graphic libraries performances tests](https://github.com/jpbruyere/vgperf) |
+|   C   | Jan Bodnar  | [Cairo graphics tutorial](https://zetcode.com/gfx/cairo/) |
 |   C   | Jeremy Moles | [A small library of useful, common Cairo routines](https://github.com/stuaxo/cairocks) |
 |   C   | Martin Robinson | [Some simple exmaples of using the Cairo GL backend](https://github.com/mrobinson/cairo-gl-smoke-tests)
 | JavaScript | eexpress | [Cairo Clock for gnome-shell](https://github.com/eexpress/gnome-shell-cairo) |
+| TypeScript | asnared | [Verbosely Documented, Minimal Starknet Contract Examples](https://github.com/abigger87/cairo-by-example)
