@@ -36,6 +36,7 @@ You can do it quite easy by:
 | Go           | [Go language bindings for Cairo graphics](https://github.com/patrickxb/gocairo) |
 | Harbour      | [Harbour module implementing bindings to Cairo](https://github.com/dev-harbour/hb-cairo) |
 | Haskell      | [Haskell binding to Cairo](https://github.com/sseefried/hs-cairo) |
+| Lua          | [Cairo bindings for lua](https://github.com/awesomeWM/oocairo) |
 | Julia        | [Bindings to the Cairo graphics library](https://github.com/JuliaGraphics/Cairo.jl) |
 | OCaml        | [Binding to Cairo, a 2D Vector Graphics Library](https://github.com/Chris00/ocaml-cairo) |
 | Python       | [Python bindings for cairo](https://github.com/pygobject/pycairo) |
