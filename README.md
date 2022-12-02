@@ -25,7 +25,7 @@ You can do it quite easy by:
 
    - [API reference manual](https://www.cairographics.org/manual)
 
-#### Ebooks
+#### Books Covering Cairo and Projects Using Cairo
 <!-- Alphabetically by programming language -->
 | Lang. | Author | Description |
 | :---  | :---   | :---        |
