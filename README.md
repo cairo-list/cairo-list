@@ -63,9 +63,3 @@ You can do it quite easy by:
 | JavaScript | eexpress | [Cairo Clock for gnome-shell](https://github.com/eexpress/gnome-shell-cairo) |
 | Python     | Behdad Esfahbod | [Simple PyCairo-based presentation tool](https://github.com/behdad/slippy) |
 | TypeScript | asnared | [Verbosely Documented, Minimal Starknet Contract Examples](https://github.com/abigger87/cairo-by-example)
-
-#### Books Covering Cairo and Projects Using Cairo
-<!-- Alphabetically by programming language -->
-| Lang. | Author | Description |
-| :---  | :---   | :---        |
-|   Python   | Martin McBride | [Computer Graphics In Python]([https://gitlab.com/cairo/cairo-demos](https://leanpub.com/computergraphicsinpython)) |
