@@ -25,6 +25,12 @@ You can do it quite easy by:
 
    - [API reference manual](https://www.cairographics.org/manual)
 
+#### Ebooks
+<!-- Alphabetically by programming language -->
+| Lang. | Author | Description |
+| :---  | :---   | :---        |
+| Python| Martin McBride | [Advanced vector graphics using Pycairo and Python](https://leanpub.com/computergraphicsinpython) |
+
 #### Language bindings
 <!-- Alphabetically by programming language -->
 | Lang.        | Description |
