@@ -62,4 +62,5 @@ You can do it quite easy by:
 |   C   | Martin Robinson | [Some simple exmaples of using the Cairo GL backend](https://github.com/mrobinson/cairo-gl-smoke-tests)
 | JavaScript | eexpress | [Cairo Clock for gnome-shell](https://github.com/eexpress/gnome-shell-cairo) |
 | Python     | Behdad Esfahbod | [Simple PyCairo-based presentation tool](https://github.com/behdad/slippy) |
+| Python     | Martin McBride | [Generative art and graphing library for creating images and animations](https://pythoninformer.com/generative-art/generativepy) |
 | TypeScript | asnared | [Verbosely Documented, Minimal Starknet Contract Examples](https://github.com/abigger87/cairo-by-example)
