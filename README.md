@@ -1,6 +1,6 @@
-# Cairo list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
+# Cairo Graphics list on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
-Below is a list of open source Cairo - related projects that can be found on GitHub and not only.
+Below is a list of open source Cairo Graphics - related projects that can be found on GitHub and not only.
 
 ### Contribute!
 
@@ -63,4 +63,3 @@ You can do it quite easy by:
 | JavaScript | eexpress | [Cairo Clock for gnome-shell](https://github.com/eexpress/gnome-shell-cairo) |
 | Python     | Behdad Esfahbod | [Simple PyCairo-based presentation tool](https://github.com/behdad/slippy) |
 | Python     | Jan Bodnar | [PyCairo Tutorial](https://zetcode.com/gfx/pycairo/) |
-| TypeScript | asnared | [Verbosely Documented, Minimal Starknet Contract Examples](https://github.com/abigger87/cairo-by-example)
