@@ -64,4 +64,3 @@ You can do it quite easy by:
 | Python     | Behdad Esfahbod | [Simple PyCairo-based presentation tool](https://github.com/behdad/slippy) |
 | Python     | Jan Bodnar | [PyCairo Tutorial](https://zetcode.com/gfx/pycairo/) |
 | Python | Martin McBride | [Generative art and graphing library for creating images and animations](https://pythoninformer.com/generative-art/generativepy) |
-| TypeScript | asnared | [Verbosely Documented, Minimal Starknet Contract Examples](https://github.com/abigger87/cairo-by-example)
