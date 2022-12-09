@@ -7,7 +7,7 @@ Below is a list of open source Cairo - related projects that can be found on Git
 - If you own or know any repository related to `Cairo` programming toolset, please consider sharing the link with the community.
 You can do it quite easy by:
    - [creating an Issue](https://github.com/rjopek/cairo-list/issues)
-   - [forking this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+   - [forking this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
 # Table of Contents.
 
