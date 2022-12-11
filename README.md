@@ -54,7 +54,9 @@ You can do it quite easy by:
 <!-- Alphabetically by programming language -->
 | Lang. | Author | Description |
 | :---  | :---   | :---        |
+|   C   | Andrew Lim | [Using Cairo With GDI](https://windrealm.org/cairo-gdi/) |
 |   C   | Bryce Harrington | [Cairo demonstration programs](https://gitlab.com/cairo/cairo-demos) |
+|   C   | Cairo       | [Cairo demonstration programs](https://gitlab.com/cairo/cairo-demos) |
 |   C   | dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
 |   C   | j-p         | [Vector graphic libraries performances tests](https://github.com/jpbruyere/vgperf) |
 |   C   | Jan Bodnar  | [Cairo graphics tutorial](https://zetcode.com/gfx/cairo/) |
