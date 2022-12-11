@@ -62,6 +62,7 @@ You can do it quite easy by:
 |   C   | Jan Bodnar  | [Cairo graphics tutorial](https://zetcode.com/gfx/cairo/) |
 |   C   | Jeremy Moles | [A small library of useful, common Cairo routines](https://github.com/cubicool/cairou) |
 |   C   | Martin Robinson | [Some simple examples of using the Cairo GL backend](https://github.com/mrobinson/cairo-gl-smoke-tests) |
+|   C++ | Bryce Harrington  | [caskbench - The Cairo and Skia Benchmark](https://github.com/bryceharrington/caskbench) |
 |   C++ | Torbjörn Rathsman | [Page composer based on pangocairo](https://github.com/milasudril/pagecomposer) |
 | JavaScript | eexpress | [Cairo Clock for gnome-shell](https://github.com/eexpress/gnome-shell-cairo) |
 | Python     | Behdad Esfahbod | [Simple PyCairo-based presentation tool](https://github.com/behdad/slippy) |
