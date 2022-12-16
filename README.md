@@ -35,6 +35,7 @@ You can do it quite easy by:
 <!-- Alphabetically by programming language -->
 | Lang.        | Description |
 | :---         | :---        |
+| C#           | [CairoSharp is a C# wrapper for .NET Standard 1.6/2.0 of Cairo](https://github.com/zwcloud/CairoSharp) |
 | C++          | [Official repository of cairomm: C++ bindings for the cairo graphics library](https://github.com/freedesktop/cairomm)
 | Crystal      | [Cairo bindings for Crystal language](https://github.com/TamasSzekeres/cairo-cr) |
 | D            | [Cairo bindings and wrappers for the D programming language](https://github.com/cairoD/cairoD) |
