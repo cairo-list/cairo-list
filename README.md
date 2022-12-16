@@ -46,6 +46,7 @@ You can do it quite easy by:
 | Lua          | [Cairo bindings for lua](https://github.com/awesomeWM/oocairo) |
 | Julia        | [Bindings to the Cairo graphics library](https://github.com/JuliaGraphics/Cairo.jl) |
 | OCaml        | [Binding to Cairo, a 2D Vector Graphics Library](https://github.com/Chris00/ocaml-cairo) |
+| Prolog       | [Prolog bindings for the cairo graphics library](https://github.com/keriharris/plcairo) |
 | Python       | [Python bindings for cairo](https://github.com/pygobject/pycairo) |
 | Ruby         | [The Ruby bindings for cairo](https://github.com/rcairo/rcairo) |
 | Rust         | [Rust bindings for Cairo](https://github.com/jminer/rust-cairo) |
@@ -62,6 +63,8 @@ You can do it quite easy by:
 |   C   | j-p         | [Vector graphic libraries performances tests](https://github.com/jpbruyere/vgperf) |
 |   C   | Jan Bodnar  | [Cairo graphics tutorial](https://zetcode.com/gfx/cairo/) |
 |   C   | Jeremy Moles | [A small library of useful, common Cairo routines](https://github.com/cubicool/cairou) |
+|   C   | Jeremy Moles | [Cairo, SDL2, and GL/GLES2 tests](https://github.com/cubicool/cairo-gl-sdl2) |
+|   C   | Juan Manuel Mouriz| [A GTK+GL 2D planes slider that use Cairo surfaces as planes textures](https://github.com/jmouriz/gtk-gl-slider) |
 |   C   | Martin Robinson | [Some simple examples of using the Cairo GL backend](https://github.com/mrobinson/cairo-gl-smoke-tests) |
 |   C++ | Bryce Harrington  | [caskbench - The Cairo and Skia Benchmark](https://github.com/bryceharrington/caskbench) |
 |   C++ | Torbjörn Rathsman | [Page composer based on pangocairo](https://github.com/milasudril/pagecomposer) |
