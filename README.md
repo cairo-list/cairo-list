@@ -58,17 +58,21 @@ You can do it quite easy by:
 | :---  | :---   | :---        |
 |   C   | Andrew Lim | [Using Cairo With GDI](https://windrealm.org/cairo-gdi/) |
 |   C   | Bryce Harrington | [Cairo demonstration programs](https://gitlab.com/cairo/cairo-demos) |
-|   C   | Cairo       | [Cairo demonstration programs](https://gitlab.com/cairo/cairo-demos) |
-|   C   | dev-harbour | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
-|   C   | j-p         | [Vector graphic libraries performances tests](https://github.com/jpbruyere/vgperf) |
-|   C   | Jan Bodnar  | [Cairo graphics tutorial](https://zetcode.com/gfx/cairo/) |
+|   C   | Cairo        | [Cairo demonstration programs](https://gitlab.com/cairo/cairo-demos) |
+|   C   | dev-harbour  | [Playground with graphics, with the use of GLFW and Cairo](https://github.com/dev-harbour/bluesea) |
+|   C   | j-p          | [Vector graphic libraries performances tests](https://github.com/jpbruyere/vgperf) |
+|   C   | Jan Bodnar   | [Cairo graphics tutorial](https://zetcode.com/gfx/cairo/) |
 |   C   | Jeremy Moles | [A small library of useful, common Cairo routines](https://github.com/cubicool/cairou) |
+|   C   | Jeremy Moles | [A library wrapping Cairo for usage in OpenSceneGraph](https://github.com/cubicool/osgcairo) |
 |   C   | Jeremy Moles | [Cairo, SDL2, and GL/GLES2 tests](https://github.com/cubicool/cairo-gl-sdl2) |
 |   C   | Juan Manuel Mouriz| [A GTK+GL 2D planes slider that use Cairo surfaces as planes textures](https://github.com/jmouriz/gtk-gl-slider) |
 |   C   | Martin Robinson | [Some simple examples of using the Cairo GL backend](https://github.com/mrobinson/cairo-gl-smoke-tests) |
 |   C++ | Bryce Harrington  | [caskbench - The Cairo and Skia Benchmark](https://github.com/bryceharrington/caskbench) |
+|   C++ | Jeremy Moles | [Biblioteka opakowująca Pangocairo do użytku w OpenSceneGraph](https://github.com/cubicool/osgpango) |
 |   C++ | Torbjörn Rathsman | [Page composer based on pangocairo](https://github.com/milasudril/pagecomposer) |
 | JavaScript | eexpress | [Cairo Clock for gnome-shell](https://github.com/eexpress/gnome-shell-cairo) |
 | Python     | Behdad Esfahbod | [Simple PyCairo-based presentation tool](https://github.com/behdad/slippy) |
 | Python     | Jan Bodnar | [PyCairo Tutorial](https://zetcode.com/gfx/pycairo/) |
 | Python | Martin McBride | [Generative art and graphing library for creating images and animations](https://pythoninformer.com/generative-art/generativepy) |
+
+Bouncy Balls in XLib and Cairo
